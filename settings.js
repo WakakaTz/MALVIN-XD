@@ -15,7 +15,7 @@ BOT_NAME: process.env.BOT_NAME || "Kalulu-Bot",
 MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
 
-LINK_WHITELIST: "youtube.com,github.com",
+LINK_WHITELIST: "youtube.com, github.com",
 
     LINK_WARN_LIMIT: 3, // Number of warnings before action
 
